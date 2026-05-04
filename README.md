@@ -3,8 +3,8 @@
 A full-stack MERN project management app with role-based access control.
 
 ## Live Demo
-- Frontend: https://your-frontend.up.railway.app
-- Backend: https://your-backend.up.railway.app
+- Frontend: https://team-task-manager-production-8a5c.up.railway.app
+- Backend: https://team-task-manager-production-65bf.up.railway.app
 
 ## Features
 - JWT Authentication (Signup/Login)
